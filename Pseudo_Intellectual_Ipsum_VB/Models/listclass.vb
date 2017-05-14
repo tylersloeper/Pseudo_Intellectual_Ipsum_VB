@@ -90,7 +90,6 @@ Public Class listclasslist
         New listclass() With {.linesegment = "All Dubliners are from Ireland. Ronan is not a Dubliner, in this manner, he is not Irish. "},
         New listclass() With {.linesegment = "If we allow gay people to get married, what’s next? Allowing people to marry their dogs? "},
         New listclass() With {.linesegment = "All crows are black and the bird in my cage is black. So, the bird in my cage is a crow. "}
-
         }
 
 
