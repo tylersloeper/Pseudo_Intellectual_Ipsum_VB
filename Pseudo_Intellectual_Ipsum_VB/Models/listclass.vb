@@ -79,17 +79,17 @@ Public Class listclasslist
         New listclass() With {.linesegment = "Consequently... "},
         New listclass() With {.linesegment = "For this reason... "},
         New listclass() With {.linesegment = "In conclusion... "},
-        New listclass() With {.linesegment = "You can’t demonstrate that there aren’t Martians living in caves on the surface of Mars, so it is sensible for me to accept there are. "},
-        New listclass() With {.linesegment = "Well, Isaac Newton trusted in Alchemy, do you suppose you know more than Isaac Newton? "},
-        New listclass() With {.linesegment = "Lots of people purchase gold, so it must be great. "},
+        New listclass() With {.linesegment = "You can’t demonstrate that there aren’t Martians living in caves on the surface of Mars, so it is sensible for me to accept that they're there. "},
+        New listclass() With {.linesegment = "Isaac Newton believed in Alchemy so it must be legit, or do you think you know more than Isaac Newton? "},
+        New listclass() With {.linesegment = "Lots of people purchase gold, so it must be a great idea. "},
         New listclass() With {.linesegment = "Hitler was a veggie lover, so I don’t trust vegans. "},
-        New listclass() With {.linesegment = "Don't listen to young people. Young people are millenials and everyone knows millenials are stupid. "},
-        New listclass() With {.linesegment = "I accept that Frosted Flakes are incredible since it says as much on the Frosted Flakes bundling. "},
-        New listclass() With {.linesegment = "I saw a jaybird and ten minutes after the fact, I crashed my auto, in this manner, jaybirds are terrible fortunes. "},
-        New listclass() With {.linesegment = "If you didn’t vote conservative, you must be a Communist. "},
-        New listclass() With {.linesegment = "All Dubliners are from Ireland. Ronan is not a Dubliner, in this manner, he is not Irish. "},
+        New listclass() With {.linesegment = "Don't listen to young people. Young people are stupid. "},
+        New listclass() With {.linesegment = "I accept that Frosted Flakes are incredible since that's what it says on the Frosted Flakes packaging. "},
+        New listclass() With {.linesegment = "I saw a Jaybird and ten minutes afterwards, I crashed my car. So Jaybirds are terrible fortunes. "},
+        New listclass() With {.linesegment = "If you didn’t vote conservative in the last election, then you must be a Communist. "},
+        New listclass() With {.linesegment = "All New Yokers are from America. Since Ronan is not a New Yoker, he can't be an American. "},
         New listclass() With {.linesegment = "If we allow gay people to get married, what’s next? Allowing people to marry their dogs? "},
-        New listclass() With {.linesegment = "All crows are black and the bird in my cage is black. So, the bird in my cage is a crow. "}
+        New listclass() With {.linesegment = "All crows are black and a bird in my birdcage is black. So that bird is 100% beyond any doubt a crow. "}
         }
 
 

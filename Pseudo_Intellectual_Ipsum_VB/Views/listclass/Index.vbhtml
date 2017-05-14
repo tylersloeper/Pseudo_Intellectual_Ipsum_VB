@@ -29,15 +29,20 @@ End Code
                                 </font>
                                 <select name="numberoflines">
                                     <option value="0"> 0</option>
-                                    <option value="5"> 5</option>
-                                    <option value="10"> 10</option>
-                                    <option value="20"> 20</option>
-                                    <option value="40"> 40</option>
-                                    <option value="80"> 80</option>
-                                    <option value="160"> 160</option>
-                                    <option value="320"> 320</option>
-                                    <option value="640"> 640</option>
-                                    <option value="1280"> 1280</option>
+                                    <option value="2"> 2</option>
+                                    <option value="4"> 4</option>
+                                    <option value="8"> 8</option>
+                                    <option value="16"> 16</option>
+                                    <option value="32"> 32</option>
+                                    <option value="64"> 64</option>
+                                    <option value="128"> 128</option>
+                                    <option value="256"> 256</option>
+                                    <option value="512"> 512</option>
+                                    <option value="1024"> 1024</option>
+                                    <option value="2048"> 2048</option>
+                                    <option value="4096"> 4096</option>
+                                    <option value="8192"> 8192</option>
+                                    <option value="16384"> 16384</option>
                                 </select>
                                 <font face="verdana" size="3">
                                     apothegms of fallacy.
